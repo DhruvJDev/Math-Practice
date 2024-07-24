@@ -14,12 +14,12 @@ This is a simple Python script for practicing basic math operations: addition, s
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/its-dhruv-jindal/Math-Practice
-    cd math-operations-practice
+    cd math_practice.py
     ```
 
 2. **Run the script**:
     ```bash
-    python math_operations.py
+    python math_practice.py
     ```
 
 3. **Follow the menu prompts**:
