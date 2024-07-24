@@ -13,7 +13,7 @@ This is a simple Python script for practicing basic math operations: addition, s
 
 1. **Clone the repository**:
     ```bash
-    git clone [https://github.com/yourusername/math-operations-practice.git](https://github.com/its-dhruv-jindal/Math-Practice)
+    git clone https://github.com/yourusername/math-operations-practice.git
     cd math-operations-practice
     ```
 
